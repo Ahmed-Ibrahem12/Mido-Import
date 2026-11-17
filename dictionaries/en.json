@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "home": {
+      "title": "MIDO IMPORT-EXPORT d.o.o. | European Timber. Global Connections.",
+      "description": "Croatia-based timber trading company supplying European beech to the Middle East, Gulf countries and Egypt."
+    },
+    "about": {
+      "title": "About Us | MIDO IMPORT-EXPORT d.o.o.",
+      "description": "Established in 2012, MIDO IMPORT-EXPORT d.o.o. trades European hardwood and softwood for international markets."
+    },
+    "products": {
+      "title": "Products & Specifications | MIDO IMPORT-EXPORT d.o.o.",
+      "description": "Steamed and unsteamed European beech lumber: grades, lengths and thicknesses."
+    },
+    "contact": {
+      "title": "Contact Us | MIDO IMPORT-EXPORT d.o.o.",
+      "description": "Send a timber inquiry to the MIDO IMPORT-EXPORT team."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products & Specs",
+    "contact": "Contact Us",
+    "inquire": "Inquire"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "tagline": "European Timber. Global Connections.",
+    "description": "MIDO IMPORT-EXPORT d.o.o. is an international timber trading company specializing in the supply and export of European hardwood and softwood, serving diverse markets through reliable sourcing, professional service, and strong business partnerships."
+  },
+  "home": {
+    "eyebrow": "TIMBER TRADING • CROATIA",
+    "title1": "European Timber.",
+    "title2": "Global Connections.",
+    "subtitle": "A Croatia-based timber trading and import-export company supplying quality European wood products to customers across the Middle East, Gulf countries, and Egypt.",
+    "ctaProducts": "View Products",
+    "ctaContact": "Send Inquiry",
+    "stats": {
+      "established": "Established",
+      "years": "Years in Global Trade",
+      "award": "Golden Key Award",
+      "products": "Beech Product Lines"
+    },
+    "markets": {
+      "eyebrow": "MARKETS",
+      "title": "Markets We Serve",
+      "items": ["Middle East", "Gulf Countries", "Egypt"]
+    },
+    "productsSection": {
+      "eyebrow": "TIMBER CATALOG",
+      "title": "European Beech Wood Portfolio",
+      "link": "Full specifications"
+    },
+    "award": {
+      "eyebrow": "AWARD RECOGNITION",
+      "title": "Best Exporter to Egypt in 2015",
+      "text": "In 2016 we were honored with the prestigious \"Golden Key\" (Zlatni Ključ) award by the Croatian Exporters Association.",
+      "link": "Read our story"
+    },
+    "cta": {
+      "title": "Looking for European beech?",
+      "text": "Tell us the grade, thickness and quantity you need, and our team will get back to you.",
+      "button": "Send Inquiry"
+    }
+  },
+  "about": {
+    "eyebrow": "ABOUT OUR COMPANY",
+    "title1": "European Timber.",
+    "title2": "Global Connections.",
+    "p1": "is a Croatia-based timber trading and import-export company established in 2012, specializing in European hardwood and softwood for international markets.",
+    "p2": "With extensive knowledge of the European timber industry and international trade, we are committed to supplying quality European wood products to customers across the Middle East, Gulf countries, and Egypt.",
+    "p3": "Over the years, we have developed our business through professional relationships, market knowledge, and a commitment to reliable service. We understand the importance of quality, consistency, and trust in international timber trading, and we work to build every business relationship on these principles.",
+    "p4": "Our commitment goes beyond delivering products. We work to understand our customers' needs, maintain high standards, and improve our services as the markets we serve evolve.",
+    "badgeLabel": "Years in Global Trade",
+    "badgeText": "Specialized in European hardwood and softwood for international markets since 2012.",
+    "cards": [
+      { "title": "Strict Sorting", "text": "Grades AB, BCD, CD & S/F" },
+      { "title": "Port of Rijeka", "text": "Direct sea container routing" },
+      { "title": "Reliable Volume", "text": "Continuous supply security" }
+    ],
+    "award": {
+      "eyebrow": "OUR ACHIEVEMENTS & RECOGNITION",
+      "title": "Prestigious \"Golden Key\" (Zlatni Ključ) Export Award",
+      "text1": "In 2016, MIDO IMPORT-EXPORT d.o.o. was honored with the prestigious \"Golden Key\" (Zlatni Ključ) award by the Croatian Exporters Association, nominated in the Africa category and awarded as the Best Exporter to Egypt in 2015.",
+      "text2": "This milestone reflects our strong export performance, deep international trade connections, and unwavering commitment to supply reliability.",
+      "certCaption": "Best Exporter to Egypt"
+    },
+    "mission": {
+      "label": "OUR MISSION",
+      "title": "Driven by excellence, integrity, and lasting partnerships.",
+      "text": "We provide dependable timber sourcing and supply solutions, supported by professional service, market expertise, and a clear understanding of customer requirements. We work to maintain transparency, efficiency, and consistency while creating value for our customers and business partners."
+    },
+    "vision": {
+      "label": "OUR VISION",
+      "title": "Committed to progress, innovation, and responsible growth.",
+      "text": "We aim to expand the global reach of European timber, reach new markets, and make our products accessible to customers worldwide. We aspire to be a trusted international timber trading partner, connecting European wood resources with global demand through quality, reliability, and long-term partnerships."
+    }
+  },
+  "products": {
+    "eyebrow": "TIMBER CATALOG",
+    "title": "European Beech Wood Portfolio",
+    "subtitle": "Our product portfolio includes a wide range of European hardwood and softwood species, carefully sourced to serve the needs of international markets. We provide timber solutions for various commercial, industrial, and manufacturing applications.",
+    "filters": {
+      "all": "All Products",
+      "steamedEdged": "Steamed Edged",
+      "steamedUnedged": "Steamed Unedged",
+      "unsteamed": "Unsteamed"
+    },
+    "quote": "Request Quote for This Spec",
+    "applications": "Applications:",
+    "thicknesses": "Available Thicknesses (mm)",
+    "items": [
+      {
+        "id": "steamed-edged",
+        "filter": "steamedEdged",
+        "tag": "Steamed • Edged",
+        "title": "Steamed Edged Beech Wood",
+        "grades": "Grades: AB • BCD • PALLET",
+        "blocks": [
+          {
+            "name": "Grade AB",
+            "badge": "Prime Furniture",
+            "tone": "green",
+            "rows": [
+              { "label": "Long Length (1.8+ m)", "value": "50" },
+              { "label": "Short Length (1.0–1.7 m)", "value": "25 / 38" },
+              { "label": "Super Short (0.5–1.0 m)", "value": "50" }
+            ]
+          },
+          {
+            "name": "Grade BCD",
+            "badge": "Commercial",
+            "tone": "slate",
+            "rows": [
+              { "label": "Long Length (1.8+ m)", "value": "25 / 38 / 50" },
+              { "label": "Short Length (1.0–1.7 m)", "value": "25 / 38 / 50" }
+            ]
+          },
+          {
+            "name": "Grade PALLET",
+            "badge": "Industrial",
+            "tone": "amber",
+            "rows": [
+              { "label": "Length (2.0+ m)", "value": "38 / 50" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "steamed-unedged",
+        "filter": "steamedUnedged",
+        "tag": "Steamed • Unedged",
+        "title": "Steamed Unedged Beech Wood",
+        "grades": "Grades: AB / ABC / BCD / CD",
+        "gradeOptions": ["AB", "ABC", "BCD", "CD"],
+        "facts": [
+          { "label": "Length", "value": "2.0+ Meter" },
+          { "label": "Treatment", "value": "Steamed" }
+        ],
+        "thicknesses": [25, 38, 50, 60, 80],
+        "applications": "Rich warm tone preferred for solid hardwood furniture, architectural joinery, and staircases."
+      },
+      {
+        "id": "unsteamed-unedged",
+        "filter": "unsteamed",
+        "tag": "Unsteamed • Unedged",
+        "title": "Unsteamed Unedged Beech",
+        "grades": "Grade: S / F",
+        "gradeOptions": ["S", "F"],
+        "facts": [
+          { "label": "Length", "value": "2.0+ Meter" },
+          { "label": "Grading", "value": "S / F" }
+        ],
+        "thicknesses": [25, 32, 38, 50],
+        "applications": "Natural light cream European beech grain, selected for custom interior finishes and contemporary cabinetry."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "GET IN TOUCH",
+    "title": "Have questions? Let's connect.",
+    "text": "For product inquiries, supply requirements, and business cooperation, contact our team. We welcome new opportunities and look forward to building successful international partnerships.",
+    "addressLabel": "Headquarters",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "mapLabel": "Rijeka, Croatia",
+    "formTitle": "Send Commercial Timber Inquiry",
+    "name": "Representative Name",
+    "email": "Corporate Email Address",
+    "phone": "Phone / WhatsApp",
+    "product": "Requested Timber Product / Spec",
+    "message": "Quantity, destination port (e.g. Alexandria, Damietta, Jeddah, Jebel Ali), and requirements...",
+    "submit": "Submit Inquiry",
+    "note": "This opens your email app with the inquiry ready to send.",
+    "subject": "Timber inquiry",
+    "labels": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "product": "Product",
+      "message": "Message"
+    }
+  }
+}
